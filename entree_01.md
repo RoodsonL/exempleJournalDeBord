@@ -10,4 +10,6 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 J'ai choisi la technique en intrégration multimédia parce qu'il y a quelques chose dans le programme qui avaient attirés mon attention. J'aillais opter pour arts visuels, mais j'ai finalement voulu venir ici parce que la seule chose à laquelle je suis bon en arts est le dessin et parce que ça ne me tentait pas de faire de la peinture, des expositions, apprendre sur l'histoire de lart, etc. Au final, j'ai choisi TIM parce qu'il offrait des choses que je trouvais plus intéréssantes. Plus spécifiquement, je meure (💀) d'envie d'apprendre:
 
-• L'animation 2D<br>• L'animation 3D et le mapping et la modelisation<br>• L'audio, un peu moins mais quand même<br>
+*L'animation 2D
+*L'animation 3D et le mapping et la modelisation
+*L'audio, un peu moins mais quand même
