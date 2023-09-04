@@ -12,12 +12,11 @@ Je trouve que cette attraction multimédia par Moment Factory est vraiment inté
 ### [Plusieurs oeuvres par Charles Bentley](https://trendland.com/the-stunning-mixed-media-collages-of-charles-bentley/)
 J'aime beaucoup la façon dont le collage est utilisé dans ces oeuvres, et je voudrias apprendre à faire des choses similaires en utilisant des programmes comme Photoshop.
 
-### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
-
+### [The Drifting Canvas](https://www.indiatoday.in/lifestyle/culture/story/drifting-canvas-art-exhibition-3d-multimedia-screens-delhi-lifest-975544-2017-05-06)
+C'est une exhibition qui regroupe les oeuvres de plusieurs artistes ayant vécu il y a des vingtaines d'années, animés et accompaniés de musique né-classique. Ce qui m'intrigue est le regroupement des travaux de plsuieurs artistes, comme une sorte de collaboration indirecte.
 ### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+Expliquer pourquoi vous avez choisi ce lien
 
 ### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+Expliquer pourquoi vous avez choisi ce lien
 
