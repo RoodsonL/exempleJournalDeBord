@@ -2,17 +2,17 @@
 ## Rétrospective de l'examen (1 à 2 lignes par question)
 
 ### Points forts de la préparation à l'examen
-Nommer deux points forts de votre préparation à l'examen. 
+Il y en à pas vraiment, à part le fait que je connaissais déjà de la matière avant d'entrer au collège.
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
+Ce serait de revoir la matière plus souvent au lieu d'une ou deux fois avant l'examen. J'avis déja fais un cours d'informatique au secondaire, donc je connaissais la majorité des points appris en cours.
 
 ### Gestion du temps
-Comment avez-vous géré votre temps lors de l'examen?
+Je répondais au questions dont je connaissais la réponse en défilant vers le bas et je laissais les questions plus difficiles pour aprés. J'ai fini entre 15 et une demi-heure.
 
 ### Outils et ressources
-Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+J'ai seulement utilisé le PowerPoint et mes connaissance antérieures.
 
 ### Difficultés
-Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
+I'l y en avait pas beacoup, mais certaines questions étaient trompeuses.
 
