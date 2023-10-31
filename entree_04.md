@@ -3,7 +3,7 @@
 Choisissez des emplois qui pourraient vous intéresser. Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
 
 ### Emploi 1 - Animation 2D et 3D https://www.macarrieretechno.com/fr/carrieres/professions/animateur-2d-et-3d
-Tâches
+Tâches<br>
 *Réaliser des dessins/storyboards
 •Réaliser l'animation
 Environement de travail
