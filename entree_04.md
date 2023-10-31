@@ -4,7 +4,7 @@ Choisissez des emplois qui pourraient vous intéresser. Écrire 4 à 5 lignes. P
 
 ### Emploi 1 - Animation 2D et 3D https://www.macarrieretechno.com/fr/carrieres/professions/animateur-2d-et-3d
 Tâches
-•Réaliser des dessins/storyboards
+*Réaliser des dessins/storyboards
 •Réaliser l'animation
 Environement de travail
 •Studio
