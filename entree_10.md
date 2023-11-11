@@ -2,19 +2,19 @@
 ## Rétrospective de la présentation (1 à 2 lignes par question)
 
 ### Points forts de votre présentation 
-Nommer deux points forts de votre présentation.
+Elle était lisible et esthétiquement plaisante, je trouve.
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
+!. Mieux me préparer et 2. Mieux séparer les points de présentation.
 
 ### Gestion du temps
-Comment avez-vous géré votre temps lors de la présentation?
+Je trouve que j'avais bien géré mon temps, mais j'ai réalisé que j'avais plus de choses à dire qu'après l'avoir terminé.
 
 ### Outils et ressources
-Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
+J'ai utilisé PowerPoint pour faire la présentaion, et pour les points technique de mes postes j'ai consulté Task Manager, les appilcations Paramétres, et des sites commes BestBuy et Amazon, qui offre de l'information sur les spécificités.
 
 ### Difficultés
-Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
+À un moment, j'ai du vérifier mon téléphone parce que je manquais d'information.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi?
+Je n'en ai pas en particulier.
