@@ -1,20 +1,35 @@
 # Entrée 10
-## Rétrospective de la présentation (1 à 2 lignes par question)
+## Rétrospective de la présentation synthèse (1 à 2 lignes par question)
 
 ### Points forts de votre présentation 
-Elle était lisible et esthétiquement plaisante, je trouve.
+Nommer deux points forts de votre présentation.
 
 ### Points à améliorer
-!. Mieux me préparer et 2. Mieux séparer les points de présentation.
+Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
 
 ### Gestion du temps
-Je trouve que j'avais bien géré mon temps, mais j'ai réalisé que j'avais plus de choses à dire qu'après l'avoir terminé.
+Comment avez-vous géré votre temps lors de la présentation?
 
 ### Outils et ressources
-J'ai utilisé PowerPoint pour faire la présentaion, et pour les points technique de mes postes j'ai consulté Task Manager, les appilcations Paramétres, et des sites commes BestBuy et Amazon, qui offre de l'information sur les spécificités.
+Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
 
 ### Difficultés
-À un moment, j'ai du vérifier mon téléphone parce que je manquais d'information.
+Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
 ### Présentation préférée
-Je n'en ai pas en particulier.
+Quelle présentation avez-vous préféré et pourquoi?
+
+## Rétrospective de la session
+## Écris un retour sur ta session (1 à 2 lignes par question)
+
+### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
+
+### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
+
+### As-tu découvert un nouvel artiste qui t'a inspiré? 
+
+### Pour quel type d'entreprise préférerais-tu travailler? 
+
+### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
+
+### Est-ce que tu as préféré une sortie ou une conférence?
