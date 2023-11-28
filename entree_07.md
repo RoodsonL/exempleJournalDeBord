@@ -4,7 +4,7 @@
 L’objectif de cet exercice est de développer une opinion sur la conférence que nous avons eu en classe. 
 
 ### Description (Entre 4 et 6 lignes)
-Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? Est-ce que la conférence vous a été utile?
+La conférence m'a plu moyennement, parce qu'il y avait plusieurs éléments qui ne me concernait pas. Mais, je sympathisais d'une certaines façon avec la madame, sur le sujet de ne pas savoir quoi va ou où s'en aller. Dand mon cas, je suis où je veux aller, mais je ne sais pas exactement comment y arriver. Je crois que la présentation m'a été utile à un degré, et je compte peut-être utiliser les points présentés dans le futur.
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
@@ -13,4 +13,4 @@ Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées é
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
 
 ### Qualité visuelle (Entre 1 et 2 lignes)
-Comment avez-vous trouvé la qualité visuelle de la conférence? Est-ce que l'esthétisme était de qualité?
+J'ai trouvé que c'était de qualité pour une conférence sur ce sujet, mais je trouvais que certaines diapositives auraient pu être meilleurs.
