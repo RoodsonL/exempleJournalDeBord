@@ -3,13 +3,13 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Un escape game basé et sur le thème d'Harry Potter
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+N/A 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Du mapping vidéo, du modélisation 3D et du machine learning
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet?
+Recherche et documentation, prévoir le budget et la main d'oevure, conception des croquis/scénarios/énigmes/décors, programmation, modélisation 3D, tester le jeu et sonder les participants.
